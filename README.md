@@ -1,0 +1,3 @@
+# springcloud-config
+用于springcloud config远程配置功能的测试
+这个仓库是springcloud config远程git配置功能测试所需要的配置文件保管仓库。个人仓库ssm-study下的项目springcloud-study所需要的远程配置文件就存放在这里。
